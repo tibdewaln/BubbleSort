@@ -1,8 +1,6 @@
-# BubbleSort
+# Bubble Sort on Doubly Linked List.
 
- Bubble Sort on Doubly Linked List.
-
-## Source code:
+## Source code in C:
 
 ```C
 #include<stdio.h>
